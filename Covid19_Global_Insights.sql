@@ -5,11 +5,11 @@ Two tables ([dbo].['coviddeaths'] and [dbo].['covidvaccinations'] ) were created
 In total 7 SQL sriptss were run to generate insights from Covid-19 data, these resulting new tables are then visualised in Tableau https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Sheet1  */
 
 
-#-- Initialiazing the database where the Tables are stored. 
+**-- Initialiazing the database where the Tables are stored.** 
 use Projects
 go
 
--- Exploring the two tables
+**-- Exploring the two tables**
 SELECT *
 From ['coviddeaths']
 
