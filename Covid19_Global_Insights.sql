@@ -35,11 +35,12 @@ order by 2 desc
 
 --3 Looking counties with highest infection rates
 
-select Location,population,date, max(total_cases) as HighestInfectionCount,Max((total_cases/population))*100 AS 'Total_Case_ as_%_ Population'
+select Location,population, max(total_cases) as HighestInfectionCount,Max((total_cases/population))*100 AS 'Total_Case_ as_%_ Population'
 From ['coviddeaths']
---Where Location = 'India'
+Where continent is not null
 Group by Location,population,date
-order by 5 desc
+order by 4 desc
+
 
 --4 Total Cases, Deaths, Vaccination counts by joining tables  used for Tableau visualisation
 
