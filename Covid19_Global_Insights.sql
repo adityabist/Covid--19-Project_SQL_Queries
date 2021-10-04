@@ -1,5 +1,5 @@
-/* This project takes global Covid-19 infection, death and vaccination rates from https://ourworldindata.org/covid-deaths .
-SQl Server Managemnet Studio application was used to run SQL queries.
+/* This project takes global Covid-19 infection, death, and vaccination rates from https://ourworldindata.org/covid-deaths .
+SQl Server Managemnet Studio application was used to run the SQL queries. The Data set is from Jan.22,2020 to May 28,2021.
 The file was downloaded and split into two in MS Excel format files which were uploaded into SQl Server database using SQL Import and Export Wizard.
 Two tables ([dbo].['coviddeaths'] and [dbo].['covidvaccinations'] ) were created in the data base  (Projects). 
 In total 7 SQL sriptss were run to generate insights from Covid-19 data, these resulting new tables are then visualised in Tableau https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Sheet1  */
