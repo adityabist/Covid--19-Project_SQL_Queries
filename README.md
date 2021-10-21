@@ -14,12 +14,12 @@ This project will try to answer some of the following questions:
 - 🌱 I hope to generate new insights, harnessing the power of Python to answer questions and develop an understanding of publicly available large datasets.
 - 📫 How to reach me: I can be reached on adityabist@yahoo.com
 
-##🛠 Skills
--Python
--Sql
--Tableau Public
+## 🛠 Skills
+- Python
+- Sql
+- Tableau Public
 
-##Installation
+## Installation
 Install my-project with the following programs:
 
 SQL Server Management Studio
