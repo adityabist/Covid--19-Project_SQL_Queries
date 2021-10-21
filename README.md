@@ -13,11 +13,11 @@ The project could be also done using Python language, however, SQL was used pref
 👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
 🌱 I hope to generate new insights, harnessing the power of Python to answer questions and develop an understanding of publicly available large datasets.
 📫 How to reach me: I can be reached on adityabist@yahoo.com
-🛠 Skills
-Python
-Sql
-Tableau Public
-Installation
+##🛠 Skills
+-Python
+-Sql
+-Tableau Public
+##Installation
 Install my-project with the following programs:
 
 SQL Server Management Studio
@@ -30,29 +30,29 @@ https://public.tableau.com/en-us/s/download
 
 Python 3.7.11
 
-https://www.python.org/downloads/release/python-3711/
+- https://www.python.org/downloads/release/python-3711/
 
 Installing panda librabry in Python
 
 https://pandas.pydata.org/docs/getting_started/install.html
-Installing matplotlib librabry in Python
+- Installing matplotlib librabry in Python
 
 https://matplotlib.org/stable/users/installing.html
-Installing Tableau Public -https://public.tableau.com/en-us/s/
+- Installing Tableau Public -https://public.tableau.com/en-us/s/
 
 Jupyter Notebook
 
-https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
+- https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
 
 ##🔗 Links
-https://www.linkedin.com/in/aditya-bist-20a3437/]
-https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Sheet1
+-  https://www.linkedin.com/in/aditya-bist-20a3437/]
+-  https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Sheet1
 ##License
-Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/.
+-  Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/.
 
 ##Dataset Used:
-https://ourworldindata.org/covid-deaths
+-  https://ourworldindata.org/covid-deaths
 
 ##Acknowledgements
-[Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst/about)
-https://insights.stackoverflow.com/survey
+-  [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst/about)
+-  https://insights.stackoverflow.com/survey
