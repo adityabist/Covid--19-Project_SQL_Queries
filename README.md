@@ -10,7 +10,7 @@ This project will try to answer some of the following questions:
 *The project could be also done using Python language, however, SQL was used preferred for this project. In addition, active dashboards are also developed using Tableau, from tables produced using SQL in SQL Server Management Studio. The link to Tableau dashboards is provided in the Links section of this dcoument.*
 
 - 👋 Hi, I’m @adityabist
-- 👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
+- 👀 I’m interested in using Python and SQL languages,specifically Pandas and Matplotlib Python libraries, for Data Analysis.
 - 🌱 I hope to generate new insights, harnessing the power of Python to answer questions and develop an understanding of publicly available large datasets.
 - 📫 How to reach me: I can be reached on adityabist@yahoo.com
 
