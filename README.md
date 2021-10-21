@@ -1,4 +1,4 @@
-# Covid--19-Project_SQL_Queries
+# Covid-19-Vaccination_Insights
 Exploring Covid-19 Vaccination Rates Globally
 
 This project will try to answer some of the following questions:
