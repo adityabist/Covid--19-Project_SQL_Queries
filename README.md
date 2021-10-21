@@ -31,19 +31,17 @@ Tableau Public
 https://public.tableau.com/en-us/s/download
 
 Python 3.7.11
-
 - https://www.python.org/downloads/release/python-3711/
 
-Installing panda librabry in Python
-
-- https://pandas.pydata.org/docs/getting_started/install.html
-Installing matplotlib librabry in Python
-
-https://matplotlib.org/stable/users/installing.html
-- Installing Tableau Public -https://public.tableau.com/en-us/s/
+  Installing panda librabry in Python
+  - https://pandas.pydata.org/docs/getting_started/install.html
+  Installing matplotlib librabry in Python
+  - https://matplotlib.org/stable/users/installing.html
+  
+Installing Tableau Public 
+- https://public.tableau.com/en-us/s/
 
 Jupyter Notebook
-
 - https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
 
 ## 🔗 Links
