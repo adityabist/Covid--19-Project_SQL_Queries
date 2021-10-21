@@ -24,16 +24,16 @@ Install my-project with the following programs:
 
 SQL Server Management Studio
 
-https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver15
+- https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver15
 
 Tableau Public
 
-https://public.tableau.com/en-us/s/download
+- https://public.tableau.com/en-us/s/download
 
 Python 3.7.11
 - https://www.python.org/downloads/release/python-3711/
 
-  Installing panda librabry in Python
+  Installing pandas librabry in Python
   - https://pandas.pydata.org/docs/getting_started/install.html
   Installing matplotlib librabry in Python
   - https://matplotlib.org/stable/users/installing.html
