@@ -7,16 +7,18 @@ This project will try to answer some of the following questions:
 2. Highest Infection Rates Globally
 3. Vaccination Rates Globally
 
-The project could be also done using Python language, however, SQL was used preferred for this project. In addition, active dashboards are also developed using Tableau, from tables produced using SQL in SQL Server Management Studio. The link to Tableau dashboards is provided in the Links section of this dcoument.
+*The project could be also done using Python language, however, SQL was used preferred for this project. In addition, active dashboards are also developed using Tableau, from tables produced using SQL in SQL Server Management Studio. The link to Tableau dashboards is provided in the Links section of this dcoument.*
 
-👋 Hi, I’m @adityabist
-👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
-🌱 I hope to generate new insights, harnessing the power of Python to answer questions and develop an understanding of publicly available large datasets.
-📫 How to reach me: I can be reached on adityabist@yahoo.com
+- 👋 Hi, I’m @adityabist
+- 👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
+- 🌱 I hope to generate new insights, harnessing the power of Python to answer questions and develop an understanding of publicly available large datasets.
+- 📫 How to reach me: I can be reached on adityabist@yahoo.com
+
 ##🛠 Skills
 -Python
 -Sql
 -Tableau Public
+
 ##Installation
 Install my-project with the following programs:
 
