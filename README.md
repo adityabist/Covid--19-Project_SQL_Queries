@@ -44,17 +44,15 @@ Jupyter Notebook
 
 https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
 
-🔗 Links
+##🔗 Links
 https://www.linkedin.com/in/aditya-bist-20a3437/]
 https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Sheet1
-
-License
+##License
 Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/.
 
-Dataset Used:
+##Dataset Used:
 https://ourworldindata.org/covid-deaths
 
-Acknowledgements
+##Acknowledgements
 [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst/about)
-
 https://insights.stackoverflow.com/survey
