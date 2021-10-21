@@ -35,6 +35,7 @@ Python 3.7.11
 
   Installing pandas librabry in Python
   - https://pandas.pydata.org/docs/getting_started/install.html
+  
   Installing matplotlib librabry in Python
   - https://matplotlib.org/stable/users/installing.html
   
