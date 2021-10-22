@@ -56,4 +56,3 @@ Jupyter Notebook
 
 ## Acknowledgements
 -  [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst/about)
--  https://insights.stackoverflow.com/survey
