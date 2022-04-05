@@ -1,7 +1,7 @@
 # Global_Covid-19-Vaccination_Insights
-Exploring Covid-19 Vaccination Rates Globally
+Exploring Covid-19 Vaccination Rates Globally (The Data set is from Jan.22,2020 to May 28,2021.)
 
-This project will try to answer some of the following questions:
+This project will try to answer the following questions:
 
 1. Total Covd-19 Cases vs Total Deaths Globally
 2. Highest Infection Rates Globally
