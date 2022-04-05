@@ -48,8 +48,10 @@ Jupyter Notebook
 ## 🔗 Links
 LinkedIn
 -  https://www.linkedin.com/in/aditya-bist-20a3437/]
+
 Tableau Public Profile
 -  https://public.tableau.com/app/profile/aditya.bist/viz/Covid19VaccinationGlobalRates/Dashboard1
+-  
 ## License
 -  Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/.
 
